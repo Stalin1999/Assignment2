@@ -24,6 +24,7 @@ namespace assignment2
             Id = id;
             GivenName = givenname;
             Surname = surname;
+            //dateTime should show year, month, day, hour, minute, second
             StartDate = startdate;
             GraduationDate = graduationdate;
             //EndDate set to graduationdate, can be changed if they dropped out
